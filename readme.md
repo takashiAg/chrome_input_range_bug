@@ -7,11 +7,11 @@ like that
 I think chrome default css of input range for device toolbar is broken
 I guess that the css should like that.
 
-![sample](./problem.html)
+![sample](./problem.gif)
 
 
 # fixed
-![sample](./solved.html)
+![sample](./solved.gif)
 
 
 
